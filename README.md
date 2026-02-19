@@ -12,5 +12,5 @@ RL agent learning to land a spacecraft in Gymnasium's LunarLander environment, e
 
 ## Status
 
-In progress — implementing DQN from scratch.
+In progress — implementing DQN from scratch.  
 no vibecoding!
