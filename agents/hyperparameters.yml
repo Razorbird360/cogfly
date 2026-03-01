@@ -6,4 +6,7 @@ lunarlander1:
   epsilon_decay: 0.9995
   epsilon_min: 0.05
   n_episodes: 5000
+  network_sync_rate: 1000
+  learning_rate: 0.001
+  discount_factor_g: 0.99
   save_results: true
